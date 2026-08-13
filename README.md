@@ -25,11 +25,11 @@ The projects below are selected open-source work: a public window into what I bu
 
 ---
 
-## <img src="https://raw.githubusercontent.com/orwa-mahmoud/claude-nightshift/main/plugins/nightshift/assets/nightshift-logo.png" width="38" height="38" align="absmiddle" alt="Nightshift logo">&nbsp; Nightshift
+## <img src="https://raw.githubusercontent.com/orwa-mahmoud/nightshift/main/plugins/nightshift/assets/nightshift-logo.png" width="38" height="38" align="absmiddle" alt="Nightshift logo">&nbsp; Nightshift
 
 ### Accountable long-running coding shifts
 
-[Nightshift](https://github.com/orwa-mahmoud/claude-nightshift) gives Codex and Claude Code an accountable engineering shift: persistent work, explicit completion, parked decisions, safety rules, and reviewable receipts.
+[Nightshift](https://github.com/orwa-mahmoud/nightshift) gives Codex and Claude Code an accountable engineering shift: persistent work, explicit completion, parked decisions, safety rules, and reviewable receipts.
 
 <p align="center"><strong>Your punch list</strong> &nbsp;→&nbsp; <strong>Work that survives long sessions</strong> &nbsp;→&nbsp; <strong>A morning you can review</strong></p>
 
@@ -42,8 +42,8 @@ It can work your own plan or take a ready-made shift:
 For Claude Code, hooks make the contract mechanical: no premature clock-out, no unattended 2 AM question blocking the run, owner-defined command and file safeguards, and recovery after an interrupted session.
 
 <p align="center">
-  <a href="https://github.com/orwa-mahmoud/claude-nightshift"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nightshift source"></a>
-  <img src="https://img.shields.io/github/v/release/orwa-mahmoud/claude-nightshift?style=for-the-badge&label=release&color=2563EB" alt="Latest Nightshift release">
+  <a href="https://github.com/orwa-mahmoud/nightshift"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nightshift source"></a>
+  <img src="https://img.shields.io/github/v/release/orwa-mahmoud/nightshift?style=for-the-badge&label=release&color=2563EB" alt="Latest Nightshift release">
   <a href="https://chatgpt.com/plugins/plugins_6a7c58f65d708191b3a705a8625baffe"><img src="https://img.shields.io/badge/Open_in-ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Open Nightshift in ChatGPT"></a>
   <a href="https://orwamahmoud.com/nightshift/"><img src="https://img.shields.io/badge/Read_the_story-8E3B22?style=for-the-badge&logo=safari&logoColor=white" alt="Nightshift website"></a>
 </p>
