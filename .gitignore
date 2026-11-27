@@ -1,0 +1,8 @@
+# Personal working notes — never publish these
+ai_docs/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
